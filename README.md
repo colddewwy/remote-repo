@@ -1,3 +1,3 @@
 # remote-repo
-学习git命令
 ``` hello ```
+这是一个学习git命令的仓库
